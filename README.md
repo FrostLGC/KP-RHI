@@ -45,4 +45,3 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini, laku
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
-"# KP-RHI" 
